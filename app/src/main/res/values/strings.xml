@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaseProjectRxDagger</string>
+    <string name="action_login">Войти</string>
+    <string name="save_password">Сохранить пароль</string>
+    <string name="password">Пароль</string>
+    <string name="login_header">Введите учетные данные</string>
+    <string name="username">Имя пользователя</string>
+    <string name="some_error">Непредвиденная ошибка</string>
+    <string name="google_market_link">a</string>
+    <string name="google_play_store_link">v</string>
+</resources>
